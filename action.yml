@@ -1,4 +1,4 @@
-name: "Azure Static Web Apps Deploy"
+name: "Azure Static Web Apps Deploy (Puppeteer)"
 description: "Deploys an application to Azure Static Web Apps"
 branding:
   icon: "upload-cloud"
